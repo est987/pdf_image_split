@@ -17,5 +17,6 @@ conda install -c conda-forge poppler
  * w_margin_pct=0: % width to crop (half on each side)
  * h_margin_pct=0:  % height to crop (half on each side)
  * savepath='': Folder to save split images):
+ * right_to_left=False: Starts splitting from top right to left Default splits from left to right. Both split top to bottom
    
  
